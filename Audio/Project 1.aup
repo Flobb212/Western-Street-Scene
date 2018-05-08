@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Project 1_data" version="1.3.0" audacityversion="2.0.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="20.2475527108" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags>
+		<tag name="Encoded by" value="Lavf52.16.0"/>
+	</tags>
+	<wavetrack name="Clip 1 - Speech" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="412160">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ec6.au" len="262144" min="-0.379924" max="0.419115" rms="0.036598"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00000cb.au" len="150016" min="-0.241444" max="0.26356" rms="0.024913"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Clip 1 - Speech" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="412160">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000b90.au" len="262144" min="-0.380208" max="0.41935" rms="0.036623"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000039a.au" len="150016" min="-0.24159" max="0.263745" rms="0.024956"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Clip 1 - Background: Church Bells" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="434500">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000126.au" len="262144" min="-0.084618" max="0.092421" rms="0.016911"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000e7c.au" len="172356" min="-0.063423" max="0.068813" rms="0.011852"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Clip 1 - Background: Church Bells" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="434500">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006c4.au" len="262144" min="-0.095791" max="0.1" rms="0.017363"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00001bd.au" len="172356" min="-0.07157" max="0.068509" rms="0.011635"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
